@@ -1,6 +1,20 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Ugo! 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<br/><a href="https://github.com/UgoMoore"></a> <a href="https://www.linkedin.com/in/ugomoore/">Cybersecurity Analyst</a> - Passionate about applying security frameworks, compliance standards, and best practices to protect organizational assets in both cloud and remote environments.
+
+<h2>📜 Certifications:</h2>
+
+- <b>ISC2 - Certified in Cybersecurity</b>
+  - [In-progress](https://www.credly.com/badges/1ecfc486-4b58-4e05-b127-3da456dae058)
+- <b>Google Cybersecurity Professional Certificate</b>
+  - [Acquired (August 2025)](https://coursera.org/share/0655c58d3f49d27da26839924c104189)
+  - [Issued (September 2025)](https://www.credly.com/badges/854834c3-2def-4a51-82e8-7990dd9782e6)
+- <b>Cisco - Network Support and Security</b>
+  - [Completed (January 2025)](https://www.credly.com/badges/cecd6119-b4b2-4825-99ad-65fad7a4d132)
+- <b>Cisco - Computer Hardware Basics</b>
+  - [Completed (December 2024)](https://www.credly.com/badges/1674b4f1-a0bf-4854-82eb-2a720336f06c)
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
