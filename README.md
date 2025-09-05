@@ -7,7 +7,7 @@
 - <b>ISC2 - Certified in Cybersecurity</b>
   - [In-progress](https://www.credly.com/badges/1ecfc486-4b58-4e05-b127-3da456dae058)
 - <b>Google Cybersecurity Professional Certificate</b>
-  - [Acquired (August 2025)](https://coursera.org/share/0655c58d3f49d27da26839924c104189)
+  - [Acquired (August 2025)](file:///C:/Users/LENOVO/Desktop/Google%20CyberSecurity%20Professional%20Certificate.jpg)
   - [Issued (September 2025)](https://www.credly.com/badges/854834c3-2def-4a51-82e8-7990dd9782e6)
 - <b>Cisco - Network Support and Security</b>
   - [Completed (January 2025)](https://www.credly.com/badges/cecd6119-b4b2-4825-99ad-65fad7a4d132)
