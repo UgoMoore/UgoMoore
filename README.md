@@ -89,7 +89,7 @@ A structured repo containing investigations, SOC reports, SIEM queries, incident
 
 ---
 
-## 🚀 Currently Learning  
+## 📚 Currently Learning  
 - Advanced Vulnerability Management 
 - Cloud Security Architecture & Defense  
 - Kubernetes Hardening  
