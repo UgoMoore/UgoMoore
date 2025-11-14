@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://medium.com/@moore.ugo" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-UgoMoore-000000?style=for-the-badge&logo=medium&logoColor=white">
+    <img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white">
   </a>
   <a href="https://www.youtube.com/@UgoMoore-1" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
