@@ -1,6 +1,54 @@
-<h1>Hi, I'm Ugo Romeo Moore!</h1>
+<!-- ============================================= -->
+<!-- 🔥 PROFESSIONAL GITHUB PROFILE — UGO MOORE 🔥 -->
+<!-- ============================================= -->
 
-<br/><a href="https://github.com/UgoMoore"></a> <a href="https://www.linkedin.com/in/ugomoore/">Cybersecurity Analyst & GRC Specialist</a> - Focused on building secure, compliant systems, hands-on security labs, and cloud-native projects using AWS/Azure, Terraform, Kubernetes, and modern security tools.
+<div align="center">
+
+# 🚀 **Ugo 'Romeo' Moore**  
+### Cybersecurity Analyst • GRC Specialist • Cloud Security • DevSecOps
+
+<p>
+Building secure, compliant, cloud-native systems using AWS, Azure, Kubernetes, Terraform, and modern security tools — with a strong focus on Governance, Risk & Compliance (GRC), cloud security, automation, and sustainable digital practices.
+</p>
+
+<!-- 🌐 Social Badges -->
+<a href="https://www.linkedin.com/in/ugomoore" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ugo%20Moore-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/UgoMoore" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-UgoMoore-black?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.youtube.com/@UgoMoore-1" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-UgoMoore-red?style=for-the-badge&logo=youtube" />
+</a>
+
+<br/><br/>
+
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UgoMoore&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UgoMoore&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+<h2>💼 About Me</h2>
+
+<p>
+I am a Cybersecurity & GRC professional with hands-on experience in vulnerability management, security analysis, cloud security architecture, and DevSecOps automation.  
+My mission is to bridge <b>security resilience</b> with <b>sustainable, energy-efficient digital practices</b> — helping organizations stay secure, compliant, efficient, and future-ready.
+</p>
+
+✔ GRC & Policy Development  
+✔ Cloud Security Engineering (AWS / Azure)  
+✔ Kubernetes Security  
+✔ SIEM + Log Analysis  
+✔ Vulnerability Management  
+✔ Risk Assessment & Compliance  
+✔ DevSecOps + Infrastructure as Code (Terraform)  
+✔ Automation & Secure-by-Design Architecture  
+
+---
 
 <h2>📜 Certifications</h2>
 
@@ -8,10 +56,8 @@
   <li>
     <a href="https://drive.google.com/file/d/1-XETQ3fYVqMpbQt783oKmV8q-1N19nEr/view?usp=sharing" target="_blank">
       <b>Google Cybersecurity Professional Certificate</b>
-    </a>
-    <br/>
-    <small>Completed (August 2025)</small>
-    <br/>
+    </a><br/>
+    <small>Completed (August 2025)</small><br/>
     <a href="https://www.credly.com/badges/854834c3-2def-4a51-82e8-7990dd9782e6" target="_blank">
       Issued (September 2025)
     </a>
@@ -20,75 +66,121 @@
   <li>
     <a href="https://www.credly.com/badges/1ecfc486-4b58-4e05-b127-3da456dae058" target="_blank">
       <b>ISC2 – Certified in Cybersecurity (CC)</b>
-    </a>
-    <br/>
+    </a><br/>
     <small>In-progress</small>
   </li>
 
   <li>
     <a href="https://www.credly.com/badges/cecd6119-b4b2-4825-99ad-65fad7a4d132" target="_blank">
       <b>Cisco – Network Support and Security</b>
-    </a>
-    <br/>
+    </a><br/>
     <small>Completed (January 2025)</small>
   </li>
 
   <li>
     <a href="https://www.credly.com/badges/1674b4f1-a0bf-4854-82eb-2a720336f06c" target="_blank">
       <b>Cisco – Computer Hardware Basics</b>
-    </a>
-    <br/>
+    </a><br/>
     <small>Completed (December 2024)</small>
   </li>
 </ul>
 
+---
 
-<h2>👨‍💻 Cybersecurity & GRC Projects:</h2>
+<h2>🧰 Tech Stack & Tools</h2>
 
-- <b>K3s Secure Kubernetes Cluster (AWS, Terraform)</b>
-  - [Automated deployment, Bastion access, HAProxy, kubeconfig export, and security add-ons](https://github.com/UgoMoore/K3s-Secure-Cluster)
-- <b>AWS EKS Production-Ready Cluster – HeliosTech</b>
-  - [Private subnets, node autoscaling, spot instances, CloudWatch logging, and Terraform automation](https://github.com/UgoMoore/HeliosTech-EKS)
-- <b>Vulnerability Management Lab</b>
-  - [Hands-on Qualys/OpenVAS scanning, remediation workflow, and compliance reporting](https://github.com/UgoMoore/Vulnerability-Management-Lab)
-- <b>Policy Compliance & Risk Assessment Labs</b>
-  - [Automation of security policies, risk mapping, and audit-ready documentation](https://github.com/UgoMoore/GRC-Labs)
-- <b>Google Cybersecurity Certificate Projects</b>
-  - [GRC-focused tasks: log analysis, incident documentation, secure configuration](https://github.com/UgoMoore/GRC-Cybersecurity-Portfolio)
+<div align="left">
+
+**☁ Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+
+**🔐 Security**
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python" />
+<img src="https://img.shields.io/badge/Qualys-Red?style=for-the-badge&logo=qualys" />
+<img src="https://img.shields.io/badge/OpenVAS-3D8D48?style=for-the-badge&logo=gnuprivacyguard" />
+
+**⚙ DevOps / IaC**
+<br/>
+<img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes,git,github,githubactions" />
+
+**📊 Monitoring / Logging**
+<br/>
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws" />
+<img src="https://img.shields.io/badge/ElasticStack-005571?style=for-the-badge&logo=elastic" />
+
+</div>
+
+---
+
+<h2>📂 Featured Cybersecurity & GRC Projects</h2>
+
+<details>
+<summary><b>🚀 K3s Secure Kubernetes Cluster (AWS + Terraform)</b></summary>
+<br/>
+<a href="https://github.com/UgoMoore/K3s-Secure-Cluster" target="_blank">
+Fully automated cluster with Bastion access, HAProxy, kubeconfig export, hardened configs, metrics, and security add-ons.
+</a>
+</details>
+
+<details>
+<summary><b>☁️ HeliosTech — AWS EKS Production Cluster</b></summary>
+<br/>
+<a href="https://github.com/UgoMoore/HeliosTech-EKS" target="_blank">
+Private subnets, node autoscaling, spot instances, CloudWatch logging, and end-to-end Terraform automation.
+</a>
+</details>
+
+<details>
+<summary><b>🛡 Vulnerability Management Lab (Qualys / OpenVAS)</b></summary>
+<br/>
+<a href="https://github.com/UgoMoore/Vulnerability-Management-Lab" target="_blank">
+Vulnerability scanning, triage, remediation workflow, compliance reporting, and executive summaries.
+</a>
+</details>
+
+<details>
+<summary><b>📘 GRC Labs — Policies, Risk Mapping, Audit Docs</b></summary>
+<br/>
+<a href="https://github.com/UgoMoore/GRC-Labs" target="_blank">
+Policy creation, risk registers, compliance mapping, incident reporting, audit-ready documentation.
+</a>
+</details>
+
+<details>
+<summary><b>🎓 Google Cybersecurity Certificate Portfolio</b></summary>
+<br/>
+<a href="https://github.com/UgoMoore/GRC-Cybersecurity-Portfolio" target="_blank">
+Real-world GRC tasks: log analysis, incident documentation, secure configuration, risk evaluation.
+</a>
+</details>
+
+---
 
 <h2>📚 Currently Learning</h2>
 
-- Governance, Risk, and Compliance (GRC) frameworks in cloud environments  
-- Cloud Security Architecture & Best Practices  
-- Kubernetes Security & Hardening  
-- DevSecOps pipelines & automation  
-- Intermediate Terraform infrastructure design  
+- Cloud Security Architecture & Defense  
+- Kubernetes Hardening  
+- DevSecOps pipelines  
+- Infrastructure Automation  
+- Advanced GRC Frameworks (NIST, ISO, CIS)  
 
-<h2> 🏆 Certifications (In Progress / Completed)</h2>
+---
 
-- Google Cybersecurity Professional Certificate  
-- Cloud Computing, Cybersecurity & DevOps Bootcamp — Digital Witch Community  
-- ISC2  Certified in Cybersecurity (CC)
-- AWS & GCP Security Certifications (Upcoming)  
+<h2>🤳 Connect with Me</h2>
 
-<h2> 🤳 Connect with me:</h2>
+<a href="https://linkedin.com/in/ugomoore" target="_blank">
+  <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-[<img align="left" alt="UgoMoore | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="UgoMoore | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<a href="https://www.youtube.com/@UgoMoore-1" target="_blank">
+  <img align="left" alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
-<br/>
+<br/><br/>
 
-[linkedin]: https://linkedin.com/in/ugomoore
-[youtube]: https://www.youtube.com/@UgoMoore-1
-
+<!-- Hidden GitHub Special Section -->
 <!--
 **UgoMoore/UgoMoore** is a ✨ _special_ ✨ repository because its README.md appears on your GitHub profile.
-
-- 🔭 I’m currently working on Cloud Security & GRC projects
-- 🌱 I’m currently learning Kubernetes security hardening and DevSecOps automation
-- 👯 I’m looking to collaborate on GRC and compliance-focused security automation
-- 💬 Ask me about Cybersecurity frameworks, risk management, and cloud security
-- 📫 How to reach me: Connect via LinkedIn or GitHub
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I combine technical cloud skills with GRC frameworks to build audit-ready environments
 -->
