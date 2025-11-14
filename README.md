@@ -1,68 +1,65 @@
-<h1>Hi, I'm Ugo! 
+<h1>Hi, I'm Ugo Romeo Moore!</h1>
 
-<br/><a href="https://github.com/UgoMoore"></a> <a href="https://www.linkedin.com/in/ugomoore/">Cybersecurity Analyst</a> - Passionate about applying security frameworks, compliance standards, and best practices to protect organizational assets in both cloud and remote environments.
+<br/><a href="https://github.com/UgoMoore"></a> <a href="https://www.linkedin.com/in/ugomoore/">Cybersecurity Analyst & GRC Specialist</a> - Focused on building secure, compliant systems, hands-on security labs, and cloud-native projects using AWS/Azure, Terraform, Kubernetes, and modern security tools.
 
 <h2>📜 Certifications:</h2>
 
+- <b>Google Cybersecurity Professional Certificate</b>
+  - [Completed (August 2025)](https://coursera.org/share/0655c58d3f49d27da26839924)
+  - [Issued (September 2025)](https://www.credly.com/badges/854834c3-2def-4a51-82e8-7990dd9782e6)
 - <b>ISC2 - Certified in Cybersecurity</b>
   - [In-progress](https://www.credly.com/badges/1ecfc486-4b58-4e05-b127-3da456dae058)
-- <b>Google Cybersecurity Professional Certificate</b>
-  - [Acquired (August 2025)](https://coursera.org/share/0655c58d3f49d27da26839924c104189)
-  - [Issued (September 2025)](https://www.credly.com/badges/854834c3-2def-4a51-82e8-7990dd9782e6)
 - <b>Cisco - Network Support and Security</b>
   - [Completed (January 2025)](https://www.credly.com/badges/cecd6119-b4b2-4825-99ad-65fad7a4d132)
 - <b>Cisco - Computer Hardware Basics</b>
   - [Completed (December 2024)](https://www.credly.com/badges/1674b4f1-a0bf-4854-82eb-2a720336f06c)
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity & GRC Projects:</h2>
 
-- <b>Google Cybersecurity Professional Certificate</b>
-  - [Course labs](https://github.com/UgoMoore/GRC-Cybersecurity-Portfolio)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>K3s Secure Kubernetes Cluster (AWS, Terraform)</b>
+  - [Automated deployment, Bastion access, HAProxy, kubeconfig export, and security add-ons](https://github.com/UgoMoore/K3s-Secure-Cluster)
+- <b>AWS EKS Production-Ready Cluster – HeliosTech</b>
+  - [Private subnets, node autoscaling, spot instances, CloudWatch logging, and Terraform automation](https://github.com/UgoMoore/HeliosTech-EKS)
+- <b>Vulnerability Management Lab</b>
+  - [Hands-on Qualys/OpenVAS scanning, remediation workflow, and compliance reporting](https://github.com/UgoMoore/Vulnerability-Management-Lab)
+- <b>Policy Compliance & Risk Assessment Labs</b>
+  - [Automation of security policies, risk mapping, and audit-ready documentation](https://github.com/UgoMoore/GRC-Labs)
+- <b>Google Cybersecurity Certificate Projects</b>
+  - [GRC-focused tasks: log analysis, incident documentation, secure configuration](https://github.com/UgoMoore/GRC-Cybersecurity-Portfolio)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📚 Currently Learning</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- Governance, Risk, and Compliance (GRC) frameworks in cloud environments  
+- Cloud Security Architecture & Best Practices  
+- Kubernetes Security & Hardening  
+- DevSecOps pipelines & automation  
+- Intermediate Terraform infrastructure design  
+
+<h2> 🏆 Certifications (In Progress / Completed)</h2>
+
+- Google Cybersecurity Professional Certificate  
+- Cloud Computing, Cybersecurity & DevOps Bootcamp — Digital Witch Community  
+- ISC2  Certified in Cybersecurity (CC)
+- AWS & GCP Security Certifications (Upcoming)  
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="UgoMoore | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="UgoMoore | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+<br/>
+
+[linkedin]: https://linkedin.com/in/ugomoore
+[youtube]: https://www.youtube.com/@UgoMoore-1
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**UgoMoore/UgoMoore** is a ✨ _special_ ✨ repository because its README.md appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Cloud Security & GRC projects
+- 🌱 I’m currently learning Kubernetes security hardening and DevSecOps automation
+- 👯 I’m looking to collaborate on GRC and compliance-focused security automation
+- 💬 Ask me about Cybersecurity frameworks, risk management, and cloud security
+- 📫 How to reach me: Connect via LinkedIn or GitHub
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I combine technical cloud skills with GRC frameworks to build audit-ready environments
 -->
