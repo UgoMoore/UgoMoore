@@ -37,11 +37,11 @@ I am a Cybersecurity & GRC professional with hands-on experience in vulnerabilit
 My mission is to bridge <b>security resilience</b> with <b>sustainable, energy-efficient digital practices</b> — helping organizations stay secure, compliant, efficient, and future-ready.
 </p>
 
-✔ GRC & Policy Development  
+✔ Vulnerability Management
+✔ SIEM + Log Analysis 
 ✔ Cloud Security Engineering (AWS / Azure)  
 ✔ Kubernetes Security  
-✔ SIEM + Log Analysis  
-✔ Vulnerability Management  
+✔ GRC & Policy Development  
 ✔ Risk Assessment & Compliance  
 ✔ DevSecOps + Infrastructure as Code (Terraform)  
 ✔ Automation & Secure-by-Design Architecture  
@@ -88,7 +88,7 @@ My mission is to bridge <b>security resilience</b> with <b>sustainable, energy-e
 <h2>📂 Featured Cybersecurity & GRC Projects</h2>
 
 <details>
-<summary><b>🚀 K3s Secure Kubernetes Cluster (AWS + Terraform)</b></summary>
+<summary><b> K3s Secure Kubernetes Cluster (AWS + Terraform)</b></summary>
 <br/>
 <a href="https://github.com/UgoMoore/K3s-Secure-Cluster" target="_blank">
 Fully automated cluster with Bastion access, HAProxy, kubeconfig export, hardened configs, metrics, and security add-ons.
@@ -96,7 +96,7 @@ Fully automated cluster with Bastion access, HAProxy, kubeconfig export, hardene
 </details>
 
 <details>
-<summary><b>☁️ HeliosTech — AWS EKS Production Cluster</b></summary>
+<summary><b> HeliosTech — AWS EKS Production Cluster</b></summary>
 <br/>
 <a href="https://github.com/UgoMoore/HeliosTech-EKS" target="_blank">
 Private subnets, node autoscaling, spot instances, CloudWatch logging, and end-to-end Terraform automation.
@@ -104,7 +104,7 @@ Private subnets, node autoscaling, spot instances, CloudWatch logging, and end-t
 </details>
 
 <details>
-<summary><b>🛡 Vulnerability Management Lab (Qualys / OpenVAS)</b></summary>
+<summary><b> Vulnerability Management Lab (Qualys / OpenVAS)</b></summary>
 <br/>
 <a href="https://github.com/UgoMoore/Vulnerability-Management-Lab" target="_blank">
 Vulnerability scanning, triage, remediation workflow, compliance reporting, and executive summaries.
@@ -112,7 +112,7 @@ Vulnerability scanning, triage, remediation workflow, compliance reporting, and 
 </details>
 
 <details>
-<summary><b>📘 GRC Labs — Policies, Risk Mapping, Audit Docs</b></summary>
+<summary><b> GRC Labs — Policies, Risk Mapping, Audit Docs</b></summary>
 <br/>
 <a href="https://github.com/UgoMoore/GRC-Labs" target="_blank">
 Policy creation, risk registers, compliance mapping, incident reporting, audit-ready documentation.
@@ -120,7 +120,7 @@ Policy creation, risk registers, compliance mapping, incident reporting, audit-r
 </details>
 
 <details>
-<summary><b>🎓 Google Cybersecurity Certificate Portfolio</b></summary>
+<summary><b> Google Cybersecurity Certificate Portfolio</b></summary>
 <br/>
 <a href="https://github.com/UgoMoore/GRC-Cybersecurity-Portfolio" target="_blank">
 Real-world GRC tasks: log analysis, incident documentation, secure configuration, risk evaluation.
