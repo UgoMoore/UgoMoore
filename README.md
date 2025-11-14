@@ -69,6 +69,12 @@ A structured repo containing investigations, SOC reports, SIEM queries, incident
 
 ---
 
+### **6. Python Automation Labs**  
+A structured repo containing scripts, automation exercises, log parsing, incident response tools, SIEM integrations, and security workflow automation projects.  
+👉 <a href="https://github.com/UgoMoore/python-automation-labs" target="_blank">View Repository</a>
+
+---
+
 ## 📜 Certifications  
 <ul>
   <li><a href="https://coursera.org/share/0655c58d3f49d27da26839924" target="_blank"><b>Google Cybersecurity Professional Certificate</b></a>  
