@@ -6,36 +6,39 @@
 
 <ul>
   <li>
-    <b><a href="https://coursera.org/share/0655c58d3f49d27da26839924" target="_blank">
-      Google Cybersecurity Professional Certificate
-    </a></b>
+    <a href="https://coursera.org/share/0655c58d3f49d27da26839924" target="_blank">
+      <b>Google Cybersecurity Professional Certificate</b>
+    </a>
     <br/>
-    <i>Completed (August 2025)</i> • 
-    <a href="https://www.credly.com/badges/854834c3-2def-4a51-82e8-7990dd9782e6" target="_blank">Issued (September 2025)</a>
+    <small>Completed (August 2025)</small>
+    <br/>
+    <a href="https://www.credly.com/badges/854834c3-2def-4a51-82e8-7990dd9782e6" target="_blank">
+      Issued (September 2025)
+    </a>
   </li>
 
   <li>
-    <b><a href="https://www.credly.com/badges/1ecfc486-4b58-4e05-b127-3da456dae058" target="_blank">
-      ISC2 – Certified in Cybersecurity (CC)
-    </a></b>
+    <a href="https://www.credly.com/badges/1ecfc486-4b58-4e05-b127-3da456dae058" target="_blank">
+      <b>ISC2 – Certified in Cybersecurity (CC)</b>
+    </a>
     <br/>
-    <i>In Progress</i>
+    <small>In-progress</small>
   </li>
 
   <li>
-    <b><a href="https://www.credly.com/badges/cecd6119-b4b2-4825-99ad-65fad7a4d132" target="_blank">
-      Cisco – Network Support and Security
-    </a></b>
+    <a href="https://www.credly.com/badges/cecd6119-b4b2-4825-99ad-65fad7a4d132" target="_blank">
+      <b>Cisco – Network Support and Security</b>
+    </a>
     <br/>
-    <i>Completed (January 2025)</i>
+    <small>Completed (January 2025)</small>
   </li>
 
   <li>
-    <b><a href="https://www.credly.com/badges/1674b4f1-a0bf-4854-82eb-2a720336f06c" target="_blank">
-      Cisco – Computer Hardware Basics
-    </a></b>
+    <a href="https://www.credly.com/badges/1674b4f1-a0bf-4854-82eb-2a720336f06c" target="_blank">
+      <b>Cisco – Computer Hardware Basics</b>
+    </a>
     <br/>
-    <i>Completed (December 2024)</i>
+    <small>Completed (December 2024)</small>
   </li>
 </ul>
 
