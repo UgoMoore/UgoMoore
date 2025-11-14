@@ -30,25 +30,6 @@ I advocate for **energy-efficient data practices**, building solutions that supp
 
 ---
 
-## 🚀 Currently Learning  
-- Cloud Security Engineering (AWS + GCP)  
-- DevSecOps  
-- Advanced Vulnerability Management  
-- Kubernetes Security & IaC Automation  
-
----
-
-## 🛠️ Tech Stack & Tools  
-**Cloud:** AWS, GCP  
-**Kubernetes:** EKS, K3s, Kubectl, OpenLens  
-**IaC:** Terraform, AWS Modules, GitHub Actions  
-**Security:** Qualys, OpenVAS, Nmap, CIS Benchmarks  
-**GRC:** NIST CSF, ISO 27001, SOC 2 Controls, Risk Registering  
-**DevOps:** Docker, HAProxy, Bash Automation  
-**Other Tools:** Jira, Notion, Git, VS Code  
-
----
-
 ## 🔥 Featured Cybersecurity & GRC Projects
 
 ### **1. K3s Secure Kubernetes Cluster (AWS + Terraform)**  
@@ -101,6 +82,25 @@ A structured repo containing investigations, SOC reports, SIEM queries, incident
     — Completed (December 2024)
   </li>
 </ul>
+
+---
+
+## 🚀 Currently Learning  
+- Cloud Security Engineering (AWS + GCP)  
+- DevSecOps  
+- Advanced Vulnerability Management  
+- Kubernetes Security & IaC Automation  
+
+---
+
+## 🛠️ Tech Stack & Tools  
+**Cloud:** AWS, GCP  
+**Kubernetes:** EKS, K3s, Kubectl, OpenLens  
+**IaC:** Terraform, AWS Modules, GitHub Actions  
+**Security:** Qualys, OpenVAS, Nmap, CIS Benchmarks  
+**GRC:** NIST CSF, ISO 27001, SOC 2 Controls, Risk Registering  
+**DevOps:** Docker, HAProxy, Bash Automation  
+**Other Tools:** Jira, Notion, Git, VS Code  
 
 ---
 
