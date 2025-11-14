@@ -17,16 +17,19 @@
 
 ---
 
-## 🌟 About Me  
-I am a Cybersecurity Analyst with strong focus on **GRC, Cloud Security, DevSecOps, and secure automation**.  
-My mission is to help organizations strengthen their security posture by combining:  
-- Governance & Compliance  
-- Secure Cloud Architecture  
-- Infrastructure as Code  
-- Vulnerability Management  
-- Technical Documentation & Reporting  
+## 💼 About Me  
+I am a Cybersecurity & GRC professional with hands-on experience in vulnerability management, security analysis, cloud security architecture, and DevSecOps automation.  
+My mission is to bridge <b>security resilience</b> with <b>sustainable, energy-efficient digital practices</b> — helping organizations stay secure, compliant, efficient, and future-ready.
+</p>
 
-I advocate for **energy-efficient data practices**, building solutions that support both **security and sustainability**.
+✔ Vulnerability Management  
+✔ SIEM + Log Analysis  
+✔ Cloud Security Engineering (AWS / Azure)  
+✔ Kubernetes Security  
+✔ GRC & Policy Development  
+✔ Risk Assessment & Compliance  
+✔ DevSecOps + Infrastructure as Code (Terraform)  
+✔ Automation & Secure-by-Design Architecture  
 
 ---
 
@@ -86,17 +89,19 @@ A structured repo containing investigations, SOC reports, SIEM queries, incident
 ---
 
 ## 🚀 Currently Learning  
-- Cloud Security Engineering (AWS + GCP)  
-- DevSecOps  
-- Advanced Vulnerability Management  
-- Kubernetes Security & IaC Automation  
+- Advanced Vulnerability Management 
+- Cloud Security Architecture & Defense  
+- Kubernetes Hardening  
+- DevSecOps pipelines  
+- Infrastructure Automation (IaC)  
+- Advanced GRC Frameworks (NIST, ISO, CIS)
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
-**Cloud:** AWS, GCP  
+**Cloud:** AWS, Azure & GCP  
 **Kubernetes:** EKS, K3s, Kubectl, OpenLens  
-**IaC:** Terraform, AWS Modules, GitHub Actions  
+**IaC:** Terraform, GitHub Actions  
 **Security:** Qualys, OpenVAS, Nmap, CIS Benchmarks  
 **GRC:** NIST CSF, ISO 27001, SOC 2 Controls, Risk Registering  
 **DevOps:** Docker, HAProxy, Bash Automation  
