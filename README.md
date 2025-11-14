@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Medium-UgoMoore-000000?style=for-the-badge&logo=medium&logoColor=white">
   </a>
   <a href="https://www.youtube.com/@UgoMoore-1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-UgoMoore--1-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
 
