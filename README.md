@@ -19,6 +19,7 @@
 
 ## 💼 About Me  
 I am a Cybersecurity & GRC professional with hands-on experience in vulnerability management, security analysis, cloud security architecture, and DevSecOps automation.  
+
 My mission is to bridge <b>security resilience</b> with <b>sustainable, energy-efficient digital practices</b> — helping organizations stay secure, compliant, efficient, and future-ready.
 </p>
 
