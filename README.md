@@ -34,31 +34,31 @@ I advocate for **energy-efficient data practices**, building solutions that supp
 
 ### **1. K3s Secure Kubernetes Cluster (AWS + Terraform)**  
 A fully automated, hardened single-node K3s cluster on AWS with bastion access, ProxyJump, KubeAudit, Metrics Server, and Terraform-based provisioning.  
-👉 <a href="https://github.com/ugoromeomoore/k3s-secure-cluster-aws-terraform" target="_blank">View Repository</a>
+👉 <a href="https://github.com/UgoMoore/k3s-secure-cluster-aws-terraform" target="_blank">View Repository</a>
 
 ---
 
 ### **2. HeliosTech — AWS EKS Production Cluster (Terraform)**  
 Production-grade EKS cluster with private subnets, secured nodes, automated kubeconfig export, CloudWatch logs, Helm add-ons, and Terraform modules.  
-👉 <a href="https://github.com/ugoromeomoore/heliostech-aws-eks-production" target="_blank">View Repository</a>
+👉 <a href="https://github.com/UgoMoore/heliostech-aws-eks-production" target="_blank">View Repository</a>
 
 ---
 
 ### **3. Vulnerability Management Lab (Qualys & OpenVAS)**  
 Hands-on labs for cloud-based vulnerability scanning, reporting, remediation cycles, and compliance workflows.  
-👉 <a href="https://github.com/ugoromeomoore/vulnerability-management-labs" target="_blank">View Repository</a>
+👉 <a href="https://github.com/UgoMoore/vulnerability-management-labs" target="_blank">View Repository</a>
 
 ---
 
 ### **4. GRC Labs — Policies, Risk Mapping, Audit Docs**  
 A complete GRC documentation repo featuring policies, mapping templates, control matrices, risk registers, audit workflows, and compliance documentation.  
-👉 <a href="https://github.com/ugoromeomoore/grc-labs" target="_blank">View Repository</a>
+👉 <a href="https://github.com/UgoMoore/grc-labs" target="_blank">View Repository</a>
 
 ---
 
 ### **5. Google Cybersecurity Certificate Labs**  
 A structured repo containing investigations, SOC reports, SIEM queries, incident response exercises, SQL analysis, and packet investigation materials.  
-👉 <a href="https://github.com/ugoromeomoore/google-cybersecurity-labs" target="_blank">View Repository</a>
+👉 <a href="https://github.com/UgoMoore/google-cybersecurity-labs" target="_blank">View Repository</a>
 
 ---
 
