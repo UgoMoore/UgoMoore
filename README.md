@@ -37,8 +37,8 @@ I am a Cybersecurity & GRC professional with hands-on experience in vulnerabilit
 My mission is to bridge <b>security resilience</b> with <b>sustainable, energy-efficient digital practices</b> — helping organizations stay secure, compliant, efficient, and future-ready.
 </p>
 
-✔ Vulnerability Management
-✔ SIEM + Log Analysis 
+✔ Vulnerability Management  
+✔ SIEM + Log Analysis  
 ✔ Cloud Security Engineering (AWS / Azure)  
 ✔ Kubernetes Security  
 ✔ GRC & Policy Development  
