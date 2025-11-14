@@ -2,17 +2,43 @@
 
 <br/><a href="https://github.com/UgoMoore"></a> <a href="https://www.linkedin.com/in/ugomoore/">Cybersecurity Analyst & GRC Specialist</a> - Focused on building secure, compliant systems, hands-on security labs, and cloud-native projects using AWS/Azure, Terraform, Kubernetes, and modern security tools.
 
-<h2>📜 Certifications:</h2>
+<h2>📜 Certifications</h2>
 
-- <b>Google Cybersecurity Professional Certificate</b>
-  - [Completed (August 2025)](https://coursera.org/share/0655c58d3f49d27da26839924)
-  - [Issued (September 2025)](https://www.credly.com/badges/854834c3-2def-4a51-82e8-7990dd9782e6)
-- <b>ISC2 - Certified in Cybersecurity</b>
-  - [In-progress](https://www.credly.com/badges/1ecfc486-4b58-4e05-b127-3da456dae058)
-- <b>Cisco - Network Support and Security</b>
-  - [Completed (January 2025)](https://www.credly.com/badges/cecd6119-b4b2-4825-99ad-65fad7a4d132)
-- <b>Cisco - Computer Hardware Basics</b>
-  - [Completed (December 2024)](https://www.credly.com/badges/1674b4f1-a0bf-4854-82eb-2a720336f06c)
+<ul>
+  <li>
+    <b><a href="https://coursera.org/share/0655c58d3f49d27da26839924" target="_blank">
+      Google Cybersecurity Professional Certificate
+    </a></b>
+    <br/>
+    <i>Completed (August 2025)</i> • 
+    <a href="https://www.credly.com/badges/854834c3-2def-4a51-82e8-7990dd9782e6" target="_blank">Issued (September 2025)</a>
+  </li>
+
+  <li>
+    <b><a href="https://www.credly.com/badges/1ecfc486-4b58-4e05-b127-3da456dae058" target="_blank">
+      ISC2 – Certified in Cybersecurity (CC)
+    </a></b>
+    <br/>
+    <i>In Progress</i>
+  </li>
+
+  <li>
+    <b><a href="https://www.credly.com/badges/cecd6119-b4b2-4825-99ad-65fad7a4d132" target="_blank">
+      Cisco – Network Support and Security
+    </a></b>
+    <br/>
+    <i>Completed (January 2025)</i>
+  </li>
+
+  <li>
+    <b><a href="https://www.credly.com/badges/1674b4f1-a0bf-4854-82eb-2a720336f06c" target="_blank">
+      Cisco – Computer Hardware Basics
+    </a></b>
+    <br/>
+    <i>Completed (December 2024)</i>
+  </li>
+</ul>
+
 
 <h2>👨‍💻 Cybersecurity & GRC Projects:</h2>
 
