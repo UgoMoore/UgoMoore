@@ -10,9 +10,12 @@
   <a href="https://github.com/UgoMoore" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://medium.com/@moore.ugo" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-UgoMoore-000000?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
   <a href="https://www.youtube.com/@UgoMoore-1" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-UgoMoore--1-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
+    <img src="https://img.shields.io/badge/YouTube-UgoMoore--1-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -114,7 +117,9 @@ A structured repo containing investigations, SOC reports, SIEM queries, incident
 <p>
   <a href="https://www.linkedin.com/in/ugomoore" target="_blank"><b>LinkedIn</b></a>  
   •  
-  <a href="https://github.com/UgoMoore" target="_blank"><b>GitHub</b></a> 
+  <a href="https://github.com/UgoMoore" target="_blank"><b>GitHub</b></a>  
   •  
-  <a href="https://www.youtube.com/@UgoMoore-1" target="_blank"><b>YouTube</b></a> 
+  <a href="https://medium.com/@moore.ugo" target="_blank"><b>Medium</b></a>  
+  •  
+  <a href="https://www.youtube.com/@UgoMoore-1" target="_blank"><b>YouTube</b></a>  
 </p>
