@@ -120,7 +120,7 @@ Policy creation, risk registers, compliance mapping, incident reporting, audit-r
 </details>
 
 <details>
-<summary><b> Google Cybersecurity Certificate Portfolio</b></summary>
+<summary><b> Google Cybersecurity Certificate Labs</b></summary>
 <br/>
 <a href="https://github.com/UgoMoore/GRC-Cybersecurity-Portfolio" target="_blank">
 Real-world GRC tasks: log analysis, incident documentation, secure configuration, risk evaluation.
