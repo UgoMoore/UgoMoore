@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🚀 **Ugo 'Romeo' Moore**  
+# **Ugo 'Romeo' Moore**  
 ### Cybersecurity Analyst • GRC Specialist • Cloud Security • DevSecOps
 
 <p>
@@ -13,13 +13,10 @@ Building secure, compliant, cloud-native systems using AWS, Azure, Kubernetes, T
 
 <!-- 🌐 Social Badges -->
 <a href="https://www.linkedin.com/in/ugomoore" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Ugo%20Moore-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="https://github.com/UgoMoore" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-UgoMoore-black?style=for-the-badge&logo=github" />
 </a>
 <a href="https://www.youtube.com/@UgoMoore-1" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-UgoMoore-red?style=for-the-badge&logo=youtube" />
 </a>
 
 <br/><br/>
