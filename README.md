@@ -11,19 +11,20 @@
 Building secure, compliant, cloud-native systems using AWS, Azure, Kubernetes, Terraform, and modern security tools — with a strong focus on Governance, Risk & Compliance (GRC), cloud security, automation, and sustainable digital practices.
 </p>
 
-<!-- 🌐 Social Badges -->
+<!-- 🌐 Social Badges (CLEAN & ACCURATE) -->
 <a href="https://www.linkedin.com/in/ugomoore" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ugo%20Moore-blue?style=for-the-badge&logo=linkedin" />
 </a>
+
 <a href="https://github.com/UgoMoore" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-UgoMoore-black?style=for-the-badge&logo=github" />
 </a>
+
 <a href="https://www.youtube.com/@UgoMoore-1" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-UgoMoore-red?style=for-the-badge&logo=youtube" />
 </a>
 
 <br/><br/>
-
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UgoMoore&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UgoMoore&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -84,33 +85,6 @@ My mission is to bridge <b>security resilience</b> with <b>sustainable, energy-e
 
 ---
 
-<h2>🧰 Tech Stack & Tools</h2>
-
-<div align="left">
-
-**☁ Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-
-**🔐 Security**
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,bash,python" />
-<img src="https://img.shields.io/badge/Qualys-Red?style=for-the-badge&logo=qualys" />
-<img src="https://img.shields.io/badge/OpenVAS-3D8D48?style=for-the-badge&logo=gnuprivacyguard" />
-
-**⚙ DevOps / IaC**
-<br/>
-<img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes,git,github,githubactions" />
-
-**📊 Monitoring / Logging**
-<br/>
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws" />
-<img src="https://img.shields.io/badge/ElasticStack-005571?style=for-the-badge&logo=elastic" />
-
-</div>
-
----
-
 <h2>📂 Featured Cybersecurity & GRC Projects</h2>
 
 <details>
@@ -162,6 +136,29 @@ Real-world GRC tasks: log analysis, incident documentation, secure configuration
 - DevSecOps pipelines  
 - Infrastructure Automation  
 - Advanced GRC Frameworks (NIST, ISO, CIS)  
+
+---
+
+<h2>🧰 Tech Stack & Tools</h2>
+
+<div align="left">
+
+**☁ Cloud**  
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+
+**🔐 Security Tools & Platforms**  
+<img src="https://skillicons.dev/icons?i=linux,bash,python" />
+<img src="https://img.shields.io/badge/Qualys-Red?style=for-the-badge&logo=qualys" />
+<img src="https://img.shields.io/badge/OpenVAS-3D8D48?style=for-the-badge&logo=gnuprivacyguard" />
+
+**⚙ DevOps / IaC**  
+<img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes,git,github,githubactions" />
+
+**📊 Monitoring / Logging**  
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws" />
+<img src="https://img.shields.io/badge/ElasticStack-005571?style=for-the-badge&logo=elastic" />
+
+</div>
 
 ---
 
