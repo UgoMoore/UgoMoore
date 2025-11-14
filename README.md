@@ -6,7 +6,7 @@
 
 <ul>
   <li>
-    <a href="https://coursera.org/share/0655c58d3f49d27da26839924" target="_blank">
+    <a href="https://drive.google.com/file/d/1-XETQ3fYVqMpbQt783oKmV8q-1N19nEr/view?usp=sharing" target="_blank">
       <b>Google Cybersecurity Professional Certificate</b>
     </a>
     <br/>
