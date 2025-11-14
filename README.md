@@ -106,9 +106,9 @@ A structured repo containing investigations, SOC reports, SIEM queries, incident
 
 ## 📫 Connect With Me  
 <p>
-  <a href="https://www.linkedin.com/in/ugoromoore" target="_blank"><b>LinkedIn</b></a>  
+  <a href="https://www.linkedin.com/in/ugomoore" target="_blank"><b>LinkedIn</b></a>  
   •  
-  <a href="mailto:ugoromeomoore@gmail.com" target="_blank"><b>Email</b></a>  
+  <a href="https://github.com/UgoMoore" target="_blank"><b>GitHub</b></a> 
   •  
-  <a href="https://github.com/ugoromeomoore" target="_blank"><b>GitHub</b></a>
+  <a href="https://www.youtube.com/@UgoMoore-1" target="_blank"><b>YouTube</b></a> 
 </p>
