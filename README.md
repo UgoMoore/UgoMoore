@@ -103,13 +103,14 @@ A structured repo containing investigations, SOC reports, SIEM queries, incident
 ---
 
 ## 🛠️ Tech Stack & Tools  
-**Cloud:** AWS, Azure & GCP  
+**Cloud:** AWS, Azure, GCP  
 **Kubernetes:** EKS, K3s, Kubectl, OpenLens  
-**IaC:** Terraform, GitHub Actions  
-**Security:** Qualys, OpenVAS, Nmap, CIS Benchmarks  
-**GRC:** NIST CSF, ISO 27001, SOC 2 Controls, Risk Registering  
-**DevOps:** Docker, HAProxy, Bash Automation  
-**Other Tools:** Jira, Notion, Git, VS Code  
+**IaC / Automation:** Terraform, GitHub Actions, Bash Automation  
+**Security / SIEM:** Qualys, OpenVAS, Nmap, CIS Benchmarks, Wazuh SIEM, Wireshark  
+**GRC:** NIST CSF, ISO 27001, SOC 2 Controls, Risk Registering, Security Operations Center (SOC)  
+**Programming / Scripting:** Python  
+**DevOps / Containerization:** Docker, HAProxy  
+**Other Tools:** Jira, Notion, Git, VS Code   
 
 ---
 
