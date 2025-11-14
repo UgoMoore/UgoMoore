@@ -4,15 +4,17 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ugoromoore" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:ugoromeomoore@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/ugoromeomoore" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <a href="https://www.linkedin.com/in/ugomoore" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ugo%20Moore-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/UgoMoore" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-UgoMoore-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.youtube.com/@UgoMoore-1" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-UgoMoore-red?style=for-the-badge&logo=youtube" />
+</a>
 </p>
 
 ---
