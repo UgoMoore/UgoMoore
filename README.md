@@ -38,25 +38,36 @@ My mission is to bridge <b>security resilience</b> with <b>sustainable, energy-e
 ---
 
 ## 🔥 Featured Cybersecurity & GRC Projects
+
 ### **1. K3s Secure Kubernetes Cluster (AWS + Terraform)**  
 A fully automated, hardened single-node K3s cluster on AWS with bastion access, ProxyJump, KubeAudit, Metrics Server, and Terraform-based provisioning.  
 👉 <a href="https://github.com/UgoMoore/k3s-secure-cluster-aws-terraform" target="_blank">View Repository</a>
+
+---
 
 ### **2. HeliosTech — AWS EKS Production Cluster (Terraform)**  
 Production-grade EKS cluster with private subnets, secured nodes, automated kubeconfig export, CloudWatch logs, Helm add-ons, and Terraform modules.  
 👉 <a href="https://github.com/UgoMoore/heliostech-aws-eks-production" target="_blank">View Repository</a>
 
+---
+
 ### **3. Vulnerability Management Lab (Qualys & OpenVAS)**  
 Hands-on labs for cloud-based vulnerability scanning, reporting, remediation cycles, and compliance workflows.  
 👉 <a href="https://github.com/UgoMoore/vulnerability-management-labs" target="_blank">View Repository</a>
+
+---
 
 ### **4. GRC Labs — Policies, Risk Mapping, Audit Docs**  
 A complete GRC documentation repo featuring policies, mapping templates, control matrices, risk registers, audit workflows, and compliance documentation.  
 👉 <a href="https://github.com/UgoMoore/grc-labs" target="_blank">View Repository</a>
 
+---
+
 ### **5. Google Cybersecurity Certificate Labs**  
 A structured repo containing investigations, SOC reports, SIEM queries, incident response exercises, SQL analysis, and packet investigation materials.  
 👉 <a href="https://github.com/UgoMoore/google-cybersecurity-labs" target="_blank">View Repository</a>
+
+---
 
 ### **6. Python Automation Labs**  
 A hands-on repository showcasing automated security scripts, log parsing, vulnerability scanning utilities, and workflow automations to streamline SOC and GRC tasks.  
