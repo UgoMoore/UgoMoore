@@ -74,7 +74,7 @@ Amazing-Heights-K3s-Cluster/
 ├─ main.tf 
 ├─ variables.tf
 ├─ modules/
-│   ├─ vpc/
+│   └─ vpc/
 │   └─ k3s-hapoxy/
 ├─ scripts/
 │   └─ k3s_install.sh
