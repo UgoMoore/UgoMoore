@@ -1,4 +1,4 @@
-<h1 align="center"><b>Ugo 'Romeo' Moore</b></h1>
+<h1 align="center"><b>Ugo Moore</b></h1>
 <h3 align="center">
   Cybersecurity Analyst • GRC Specialist • Cloud Security • DevSecOps  
 </h3>
@@ -77,14 +77,14 @@ A hands-on repository showcasing automated security scripts, log parsing, vulner
 
 ## 📜 Certifications  
 <ul>
+  <li><a href="https://www.credly.com/badges/1ecfc486-4b58-4e05-b127-3da456dae058" target="_blank"><b>ISC2 – Certified in Cybersecurity (CC)</b></a>  
+    — In Progress
+  </li><br>
+  
   <li><a href="https://coursera.org/share/0655c58d3f49d27da26839924" target="_blank"><b>Google Cybersecurity Professional Certificate</b></a>  
     — Completed (August 2025)  
     <br>  
     <a href="https://www.credly.com/badges/854834c3-2def-4a51-82e8-7990dd9782e6" target="_blank">Issued (September 2025)</a>
-  </li><br>
-
-  <li><a href="https://www.credly.com/badges/1ecfc486-4b58-4e05-b127-3da456dae058" target="_blank"><b>ISC2 – Certified in Cybersecurity (CC)</b></a>  
-    — In Progress
   </li><br>
 
   <li><a href="https://www.credly.com/badges/cecd6119-b4b2-4825-99ad-65fad7a4d132" target="_blank"><b>Cisco – Network Support & Security</b></a>  
