@@ -38,7 +38,7 @@ My mission is to bridge <b>security resilience</b> with <b>sustainable, energy-e
 
 ## Featured Cybersecurity & GRC Projects
 
-### **1. Secure AWS K3s Cluster with HAProxy Bastion-(Terraform Automation)/**  
+### **1. Secure AWS K3s Cluster with HAProxy Bastion-(Terraform Automation)**  
 A fully automated, hardened single-node K3s cluster deployed on AWS with Terraform.  
 👉 <a href="https://github.com/UgoMoore/k3s-secure-cluster-aws-terraform" target="_blank">View Repository</a>
 
