@@ -20,11 +20,10 @@
 
 ---
 
-## 💼 About Me  
+## About Me  
 I am a Cybersecurity & GRC professional with hands-on experience in vulnerability management, security analysis, cloud security architecture, and DevSecOps automation.  
 
 My mission is to bridge <b>security resilience</b> with <b>sustainable, energy-efficient digital practices</b> — helping organizations stay secure, compliant, efficient, and future-ready.
-</p>
 
 ✔ Vulnerability Management  
 ✔ SIEM + Log Analysis  
@@ -37,11 +36,57 @@ My mission is to bridge <b>security resilience</b> with <b>sustainable, energy-e
 
 ---
 
-## 🔥 Featured Cybersecurity & GRC Projects
+## Featured Cybersecurity & GRC Projects
 
-### **1. K3s Secure Kubernetes Cluster (AWS + Terraform)**  
-A fully automated, hardened single-node K3s cluster on AWS with bastion access, ProxyJump, KubeAudit, Metrics Server, and Terraform-based provisioning.  
+### **1. Amazing Heights — K3s Secure Kubernetes Cluster (AWS + Terraform)**  
+A fully automated, hardened single-node K3s cluster deployed on AWS with Terraform.  
 👉 <a href="https://github.com/UgoMoore/k3s-secure-cluster-aws-terraform" target="_blank">View Repository</a>
+
+<p>
+This project demonstrates a secure and fully automated Kubernetes environment deployed on AWS using K3s and Terraform.  
+Key highlights:
+</p>
+
+<ul>
+  <li>Single-node K3s cluster in a private subnet</li>
+  <li>HAProxy Bastion for secure access with ProxyJump</li>
+  <li>Automated Terraform provisioning and cloud-init configuration</li>
+  <li>Kubernetes security hardening with KubeAudit and Metrics Server</li>
+  <li>Automated kubeconfig export for cluster management</li>
+  <li>Scalable, reusable Terraform code structure for future projects</li>
+</ul>
+
+<p>
+<b>What I learned:</b>  
+Hands-on experience in securely provisioning Kubernetes on AWS, managing bastion-host access, automating infrastructure with Terraform, and implementing cluster monitoring & security add-ons.
+</p>
+
+<p>
+<b>Future improvements:</b>  
+Multi-node scaling, enhanced network policies, and integration with CI/CD pipelines for automated deployment.
+</p>
+
+<h4>Project Architecture</h4>
+<p>
+  <img src="docs/architecture-diagram.png" alt="Amazing Heights K3s Cluster Architecture" width="800">
+</p>
+
+<h4>Project File Structure</h4>
+<pre>
+Amazing-Heights-K3s-Cluster/
+├─ README.md
+├─ main.tf
+├─ variables.tf
+├─ outputs.tf
+├─ modules/
+│   ├─ vpc/
+│   ├─ bastion/
+│   └─ k3s-node/
+├─ scripts/
+│   └─ kubeconfig_export.sh
+└─ docs/
+    └─ architecture-diagram.png
+</pre>
 
 ---
 
