@@ -61,28 +61,6 @@ Key highlights:
 Hands-on experience in securely provisioning Kubernetes on AWS, managing bastion-host access, automating infrastructure with Terraform, and implementing cluster monitoring & security add-ons.
 </p>
 
-<p>
-<b>Future improvements:</b>  
-Multi-node scaling, enhanced network policies, and integration with CI/CD pipelines for automated deployment.
-</p>
-
-<h4>Project File Structure</h4>
-<pre>
-Amazing-Heights-K3s-Cluster/
-├─ README.md
-├─ backend.tf
-├─ main.tf 
-├─ variables.tf
-├─ modules/
-│   └─ vpc/
-│   └─ k3s-hapoxy/
-├─ scripts/
-│   └─ k3s_install.sh
-│   └─ kubeconfig_export.sh
-└─ docs/
-    └─ architecture-diagram.png
-</pre>
-
 ---
 
 ### **2. HeliosTech — AWS EKS Production Cluster (Terraform)**  
