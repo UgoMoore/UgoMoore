@@ -43,18 +43,6 @@ A fully automated, hardened single-node K3s cluster deployed on AWS with Terrafo
 👉 <a href="https://github.com/UgoMoore/k3s-secure-cluster-aws-terraform" target="_blank">View Repository</a>
 
 <p>
-This project demonstrates a secure and fully automated Kubernetes environment deployed on AWS using K3s and Terraform.  
-Key highlights:
-</p>
-
-<ul>
-  <li>Single-node K3s cluster in a private subnet</li>
-  <li>HAProxy Bastion for secure access with ProxyJump</li>
-  <li>Automated Terraform provisioning and cloud-init configuration</li>
-  <li>Kubernetes security hardening with KubeAudit and Metrics Server</li>
-  <li>Automated kubeconfig export for cluster management</li>
-  <li>Scalable, reusable Terraform code structure for future projects</li>
-</ul>
 
 <p>
 <b>What I learned:</b>  
