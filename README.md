@@ -44,11 +44,6 @@ A fully automated, hardened single-node K3s cluster deployed on AWS with Terrafo
 
 <p>
 
-<p>
-<b>What I learned:</b>  
-Hands-on experience in securely provisioning Kubernetes on AWS, managing bastion-host access, automating infrastructure with Terraform, and implementing cluster monitoring & security add-ons.
-</p>
-
 ---
 
 ### **2. HeliosTech — AWS EKS Production Cluster (Terraform)**  
