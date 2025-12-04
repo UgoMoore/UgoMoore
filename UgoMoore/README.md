@@ -43,8 +43,6 @@ My mission is to bridge <b>security resilience</b> with <b>sustainable, energy-e
 A structured repo containing investigations, SOC reports, SIEM queries, incident response exercises, SQL analysis, and packet investigation materials.  
 👉 <a href="https://github.com/UgoMoore/google-cybersecurity-labs" target="_blank">View Project</a>
 
-<p>
-
 ---
 
 ### **2. Secure AWS K3s Cluster with HAProxy Bastion - (Terraform Automation)**  
