@@ -47,7 +47,7 @@ A structured repo containing investigations, SOC reports, SIEM queries, incident
 
 ### **2. Secure AWS K3s Cluster with HAProxy Bastion - (Terraform Automation)**  
 A fully automated, hardened single-node K3s cluster on AWS with bastion access, ProxyJump, KubeAudit, Metrics Server, and Terraform-based provisioning.  
-👉 <a href="" target="_blank">View Project</a>
+👉 <a href="https://github.com/UgoMoore/Secure-AWS-K3s-Cluster-with-HAProxy-Bastion-Terraform-Automation" target="_blank">View Project</a>
 
 ---
 
