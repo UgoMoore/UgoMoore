@@ -1,0 +1,70 @@
+# ---------------------------
+# 🔐 SECURITY & SENSITIVE FILES
+# ---------------------------
+*.pem
+*.key
+*.pem.pub
+*.tfvars
+*.env
+*.secret
+*.secrets
+*.json.secret
+
+# AWS credentials
+.aws/
+credentials
+config
+
+# kubeconfig
+kubeconfig
+*.kubeconfig
+kubeconfig_export.sh
+.kube/
+
+# ---------------------------
+# 🏗️ TERRAFORM FILES
+# ---------------------------
+# Local Terraform state
+terraform.tfstate
+terraform.tfstate.backup
+
+# Crash logs
+crash.log
+crash.*.log
+
+# Terraform plan files
+*.tfplan
+
+# Terraform variables (sensitive)
+*.auto.tfvars
+*.auto.tfvars.json
+override.tf
+override.tf.json
+
+# Terraform internal folders
+.terraform/
+.terraform.lock.hcl
+
+# ---------------------------
+# 🐳 DOCKER (just in case)
+# ---------------------------
+docker-compose.override.yml
+
+# ---------------------------
+# 💻 EDITOR / SYSTEM FILES
+# ---------------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# ---------------------------
+# 📝 LOGS
+# ---------------------------
+*.log
+
+# ---------------------------
+# 🛠️ PYTHON / OTHER BUILD FILES
+# ---------------------------
+__pycache__/
+*.pyc
