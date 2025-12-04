@@ -103,7 +103,7 @@ A hands-on repository showcasing automated security scripts, log parsing, vulner
 ## Currently Learning  
 - Advanced Vulnerability Management 
 - Cloud Security Architecture & Defense  
-- Kubernetes Hardening  
+- Kubernetes Hardening
 - DevSecOps pipelines  
 - Infrastructure Automation (IaC)  
 - Advanced GRC Frameworks (NIST, ISO, CIS)
@@ -132,3 +132,4 @@ A hands-on repository showcasing automated security scripts, log parsing, vulner
   •  
   <a href="https://www.youtube.com/@UgoMoore-1" target="_blank"><b>YouTube</b></a>  
 </p>
+
