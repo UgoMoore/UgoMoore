@@ -41,7 +41,7 @@ My mission is to bridge <b>security resilience</b> with <b>sustainable, energy-e
 
 ### **1. Google Cybersecurity Certificate Labs**  
 A structured repo containing investigations, SOC reports, SIEM queries, incident response exercises, SQL analysis, and packet investigation materials.  
-👉 <a href="https://github.com/UgoMoore/google-cybersecurity-labs" target="_blank">View Project</a>
+👉 <a href="https://github.com/UgoMoore/Google-Cybersecurity-Portfolio" target="_blank">View Project</a>
 
 ---
 
