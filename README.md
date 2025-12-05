@@ -52,7 +52,7 @@ A fully automated, hardened single-node K3s cluster on AWS with bastion access, 
 ---
 
 ### **3. HeliosTech — AWS EKS Production Cluster (Terraform)**  
-Production-grade EKS cluster with private subnets, secured nodes, automated kubeconfig export, CloudWatch logs, Helm add-ons, and Terraform modules.  
+I built a fully automated, production-grade, secure EKS cluster using Terraform with bastion access, IRSA, private worker nodes, CloudWatch logging, and Helm-managed add-ons.   
 👉 <a href="https://github.com/UgoMoore/heliostech-aws-eks-production" target="_blank">View Project</a>
 
 ---
