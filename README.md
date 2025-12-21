@@ -59,7 +59,7 @@ I built a fully automated, production-grade, secure EKS cluster using Terraform 
 
 ### **4. Network Traffic Forensics — TLS & HTTP Packet Analysis (Wireshark)**  
 Performed hands-on packet capture and protocol analysis to investigate encrypted (TLS) and unencrypted (HTTP) network traffic. Identified communication patterns, inspected handshake details, analyzed GET requests, and documented forensic findings for cybersecurity incident response.  
-👉 <a href="https://github.com/UgoMoore/Wireshark-Packet-Analysis" target="_blank">View Project</a>
+👉 <a href="https://github.com/UgoMoore/Network-Traffic-Forensics-Wireshark" target="_blank">View Project</a>
 
 ---
 
