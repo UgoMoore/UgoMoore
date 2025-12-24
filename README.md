@@ -54,7 +54,7 @@ This project demonstrates the deployment of a hardened single-node K3s cluster o
 
 ### **3. HeliosTech — AWS EKS Production Cluster (Terraform)**  
 Production-grade Amazon EKS Kubernetes infrastructure fully automated with Terraform.
-This project provisions a secure, scalable, and cost-optimized multi-node Kubernetes cluster on AWS using Terraform modules and best practices. It includes private networking, bastion-based access, IAM-integrated security, centralized logging, and automated add-on management via Helm. Designed to reflect real-world enterprise Kubernetes deployments with a strong focus on automation, security, and operational readiness.  
+This project provisions a secure, scalable, and cost-optimized multi-node Kubernetes cluster on AWS using Terraform modules and best practices. It includes private networking, bastion-based access, IAM-integrated security, centralized logging, and automated add-on management via Helm. Designed to reflect real-world enterprise Kubernetes deployments with a strong focus on automation, security, and operational readiness.                         
 👉 <a href="https://github.com/UgoMoore/HeliosTech-Corp-AWS-EKS-Production-Terraform" target="_blank">View Project</a>
 
 ---
